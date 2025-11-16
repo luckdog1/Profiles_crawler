@@ -11,7 +11,7 @@ echo.
 echo === Setting environment variables ===
 
 set SUPABASE_URL=https://grsalbqdpcbdoqbojvcy.supabase.co
-set SUPABASE_KEY=sb_secret_SeYI4MzFoiVLbeTmzwzs6Q_JlX7p4Lc
+set SUPABASE_KEY=
 
 echo Environment variables set
 
@@ -53,4 +53,5 @@ echo Each runs on its own port: 9222, 9223, 9225, 9226
 echo.
 echo You can close this window, crawlers will keep running
 echo ==================================================
+
 
